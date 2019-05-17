@@ -3,7 +3,9 @@ Rencana konten Isan
 -Javascript
   * ES6
   * Framework javascipt
--Struktur data dasar
+   -angular 
+   -react
 -PHP Frameworks
+   -laravel
 -Interviews
 -Vlogs
