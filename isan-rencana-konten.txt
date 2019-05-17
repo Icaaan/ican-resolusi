@@ -1,0 +1,8 @@
+Rencana konten Isan
+
+-Javascript
+  * ES6
+  * Framework javascipt
+-PHP Frameworks
+-Interviews
+-Vlogs
