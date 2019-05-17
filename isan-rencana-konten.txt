@@ -1,0 +1,6 @@
+Rencana konten Isan
+
+-Javascript
+-PHP Frameworks
+-Interviews
+-Vlogs
